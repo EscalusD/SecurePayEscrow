@@ -1,24 +1,18 @@
-CORECARD is an application that seeks to create a P2P trading patform with blockchain verifiable Cards.
-The application is built on Core Blockchain.
 
-The application features will include but not limited to:
 
-Trading Platform: users can trade cards on a P2P market place using cryptocurrency.
+Secure Transactions is the key to Peace of Mind
+Our escrow service ensures that both buyers and sellers are protected throughout the entire transaction process. No more payment anxiety.
 
-Card Creation: users can create digital cards with various details.
+How SecurePayEscrow Works
 
-Blockchain Verification: cards are stored as NFTs on a blockchain for verfifcation, and are transfered once sold.
+1
+Create Transaction
+Buyer initiates a transaction specifying terms, payment amount, and timelines. Both parties agree on terms.
 
-User Profile: users create profile to manage cards, transactions, and interactions.
+2
+Secure Payment
+Buyer deposits funds into our secure escrow account. Seller is notified that funds are secured.
 
-Printable Cards: option to print cards for offline trading with verification method like a QR code or unique ID number.
-Wallet Integration: integration with cryptocurrency wallets for transactions.
-
-Search and Filter: users can search for cards based on certain parameters.
-
-Card Verification: online and ofline buyers can verify the card's authenticity and ownership through the blockchain.
-
-Card Identifier: a unique identifier with specific details like, transaction ID, currency name, originating blockchain etc.
-
-API Integration: the application provides an API link for merchants to use in thier apps. 
-
+3
+Delivery & Release
+Seller delivers product/service. Buyer approves, and the funds are released to the seller.
